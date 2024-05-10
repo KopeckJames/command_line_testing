@@ -1,2 +1,1 @@
-# command_line_testing
-class work
+I made and wrote this via command line
